@@ -23,7 +23,7 @@ export default function Home() {
                 <span className="text-primary">Premium Coffee</span>
               </h1>
               <p className="text-lg md:text-xl text-muted-foreground mb-8">
-                Discover handpicked coffee beans from the world's finest farms.
+                Discover handpicked coffee beans from the world&apos;s finest farms.
                 Roasted to perfection and delivered fresh to your door.
               </p>
               <div className="flex flex-wrap gap-4">
@@ -299,7 +299,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground mb-4">
-                  "The Ethiopian Yirgacheffe is absolutely incredible. The fruity notes are so vibrant and the quality is consistent every time. I've tried many roasters, and this is by far the best."
+                  &ldquo;The Ethiopian Yirgacheffe is absolutely incredible. The fruity notes are so vibrant and the quality is consistent every time. I&apos;ve tried many roasters, and this is by far the best.&rdquo;
                 </p>
                 <div className="flex items-center gap-3">
                   <div className="h-10 w-10 rounded-full bg-primary/10 flex items-center justify-center">
@@ -323,7 +323,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground mb-4">
-                  "I order the Colombian Supremo every month. The smooth, balanced flavor is perfect for my morning routine. Fast shipping and excellent customer service too!"
+                  &ldquo;I order the Colombian Supremo every month. The smooth, balanced flavor is perfect for my morning routine. Fast shipping and excellent customer service too!&rdquo;
                 </p>
                 <div className="flex items-center gap-3">
                   <div className="h-10 w-10 rounded-full bg-primary/10 flex items-center justify-center">
@@ -347,7 +347,7 @@ export default function Home() {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground mb-4">
-                  "As a barista, I'm very picky about my coffee. Artisan Coffee Co. never disappoints. The Italian Espresso Roast is perfect for my morning shots. Highly recommended!"
+                  &ldquo;As a barista, I&apos;m very picky about my coffee. Artisan Coffee Co. never disappoints. The Italian Espresso Roast is perfect for my morning shots. Highly recommended!&rdquo;
                 </p>
                 <div className="flex items-center gap-3">
                   <div className="h-10 w-10 rounded-full bg-primary/10 flex items-center justify-center">

@@ -15,7 +15,7 @@ export default function AboutPage() {
         <div className="prose prose-lg dark:prose-invert max-w-none mb-12">
           <p>
             Founded in 2020, Artisan Coffee Co. began with a simple mission: to
-            bring the world's finest coffee beans directly to coffee lovers
+            bring the world&apos;s finest coffee beans directly to coffee lovers
             everywhere. We work closely with farmers and cooperatives across the
             globe, ensuring fair trade practices and sustainable farming methods.
           </p>
@@ -49,7 +49,7 @@ export default function AboutPage() {
             </CardHeader>
             <CardContent>
               <p className="text-muted-foreground">
-                We're committed to environmental responsibility and supporting
+                We&apos;re committed to environmental responsibility and supporting
                 sustainable farming practices worldwide.
               </p>
             </CardContent>
